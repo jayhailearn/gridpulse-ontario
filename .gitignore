@@ -1,0 +1,33 @@
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Raw and processed datasets
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Generated models
+models/*
+!models/.gitkeep
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor configuration
+.vscode/
