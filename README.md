@@ -35,7 +35,7 @@ XGBoost, SHAP, Streamlit, Git and GitHub.
 
 ### Project Status
 
-In development — environment and repository setup.
+In development. Environment and repository setup in progress.
 
 ### Reproducibility
 
